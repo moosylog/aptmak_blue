@@ -7,7 +7,7 @@
 
 ---
 
-## 💡 Layout
+## 💡 Aptmak Mod-Blue
 ```
 q j u l ;    b p f w x
 a o i n y    k h t s r '
