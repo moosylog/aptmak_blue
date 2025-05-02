@@ -6,6 +6,17 @@
 
 ---
 
+## 💡 Layout
+q j u l ;    b p f w x
+
+a o i n y    k h t s r '
+
+z . , m      v d g c / 
+
+        e    spc
+        
+---
+
 ## 💡 Key Features
 
 - **Ergonomically optimized**: Minimizes pinky strain and awkward finger rolls.
