@@ -1,6 +1,6 @@
 # Aptmak Blue Keyboard Layout
 
-**Aptmak Blue** is a mirrored, multilingual keyboard layout based on the original [Aptmak](https://forum.colemak.com/topic/2999-apsus-aptmak-ergonomic-layout-for-english/) layout by Eve (Apsu). Developed in 2024 by Moosy, it is designed for **split and ortholinear keyboards**, optimized for both **English** and **Dutch** typing.
+**Aptmak Blue** is a mirrored, multilingual keyboard layout based on the original [Aptmak](https://forum.colemak.com/topic/2999-apsus-aptmak-ergonomic-layout-for-english/) layout by Eve (Apsu). Developed in 2024 by Moosy, it is designed for **split and ortholinear keyboards**, optimized for both **English** and **Dutch** typing.  [Official Aptmak Blue here](https://sites.google.com/view/keyboards/layout/aptmak-blue).
 
 ![Aptmak Blue Layout](https://github.com/moosylog/aptmak_blue/blob/main/blue.png?raw=true)
 
