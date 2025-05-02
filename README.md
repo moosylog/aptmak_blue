@@ -46,23 +46,6 @@ Aptmak Blue builds on the foundation of Colemak and Aptmak with enhancements spe
 
 ---
 
-## 📥 Downloads & Files
+## 📥 More info
 
-| File                    | Description                             |
-|-------------------------|-----------------------------------------|
-| `aptmak-blue.kle.json`  | Keyboard Layout Editor JSON             |
-| `aptmak-blue.keymap`    | QMK-compatible keymap (example)         |
-| `layout-diagram.png`    | Visual diagram of the layout            |
-
-> You can load the KLE file at [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/) to view or customize.
-
----
-
-## 🛠️ Installation
-
-### QMK (For custom keyboards)
-1. Clone QMK firmware repo:
-   ```bash
-   git clone https://github.com/qmk/qmk_firmware.git
-   cd qmk_firmware
-
+See:  https://sites.google.com/view/keyboards/layout/aptmak-blue
